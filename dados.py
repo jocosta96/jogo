@@ -5,7 +5,7 @@ def welcome():
     print("******************************")
     print("*Welcome to dice rolling game*")
     print("******************************")
-    print("v0.1.0")
+    print("v0.1")
 
 
 def ask():
